@@ -16,6 +16,13 @@ I'm currently working on [TM](https://github.com/noelorph/time-management-tracke
 - AI tools 
 - Spec-driven development
 
+**Focusing more on**:
+- <img src="./assets/next.svg" width=10 height=10></img> Next.js
+- <img src="./assets/react.svg" width=10 height=10></img> React
+- <img src="./assets/supabase.svg" width=10 height=10></img> Supabase
+- <img src="./assets/codex.svg" width=10 height=10></img> Codex
+- <img src="./assets/typescript.svg" width=10 height=10></img> TypeScript
+
 ### Tech Stack:
 
 <img src="./assets/typescript.svg" width=80 height=70></img>
