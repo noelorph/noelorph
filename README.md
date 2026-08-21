@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi, Noel Rafael Orphiano 👋
 
-I'm Noel Rafael Orphiano, an aspiring software and Ai engineer. 
+Aspiring software and Ai engineer. Self-taught developer, trying to build cool applications. 
+Focused on learning Full-stack development and software engineering.
+
+### Tech Stack:
 
 <!--
 **noelorph/noelorph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
