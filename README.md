@@ -10,6 +10,8 @@ I'm currently working on [TM](https://github.com/noelorph/time-management-tracke
 
 ### Tech Stack:
 
+<img src="./assets/typescript.svg"></img>
+
 <!--
 **noelorph/noelorph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
