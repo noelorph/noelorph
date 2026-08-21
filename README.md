@@ -18,23 +18,23 @@ I'm currently working on [TM](https://github.com/noelorph/time-management-tracke
 
 ### Tech Stack:
 
-<img src="./assets/typescript.svg" width=80 height=80></img>
-<img src="./assets/express.svg" width=80 height=80></img>
-<img src="./assets/nodejs.svg" width=80 height=80></img>
-<img src="./assets/react.svg" width=80 height=80></img>
-<img src="./assets/next.svg" width=80 height=80></img>
+<img src="./assets/typescript.svg" width=80 height=70></img>
+<img src="./assets/express.svg" width=80 height=70></img>
+<img src="./assets/nodejs.svg" width=80 height=70></img>
+<img src="./assets/react.svg" width=80 height=70></img>
+<img src="./assets/next.svg" width=80 height=70></img>
 
-<img src="./assets/html.svg" width=40 height=40></img>
-<img src="./assets/css.svg" width=40 height=40></img>
-<img src="./assets/tailwindcss.svg" width=40 height=40></img>
+<img src="./assets/html.svg" width=80 height=70></img>
+<img src="./assets/css.svg" width=80 height=70></img>
+<img src="./assets/tailwindcss.svg" width=80 height=70></img>
 
-<img src="./assets/mongodb.svg" width=40 height=40></img>
-<img src="./assets/supabase.svg" width=40 height=40></img>
-<img src="./assets/prisma.svg" width=40 height=40></img>
-<img src="./assets/mysql.svg" width=40 height=40></img>
+<img src="./assets/mongodb.svg" width=80 height=70></img>
+<img src="./assets/supabase.svg" width=80 height=70></img>
+<img src="./assets/prisma.svg" width=80 height=70></img>
+<img src="./assets/mysql.svg" width=80 height=70></img>
 
-<img src="./assets/codex.svg" width=40 height=40></img>
-<img src="./assets/vscode.svg" width=40 height=40></img>
+<img src="./assets/codex.svg" width=80 height=70></img>
+<img src="./assets/vscode.svg" width=80 height=70></img>
 
 
 <!--
