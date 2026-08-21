@@ -1,4 +1,4 @@
-## Hi, Noel Rafael Orphiano 👋
+## Hi, I'm Noel Rafael Orphiano 👋
 
 💻 Aspiring software and Ai engineer. 
 
