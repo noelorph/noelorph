@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Noel Rafael Orphiano, an aspiring software and Ai engineer. 
+
 <!--
 **noelorph/noelorph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
