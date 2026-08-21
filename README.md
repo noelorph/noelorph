@@ -2,7 +2,9 @@
 
 💻 Aspiring software and Ai engineer. 
 
-🦊 Self-taught developer, trying to build cool applications.
+🦊 Self-taught developer 
+
+I'm a Computer Science student wanting to build cool applications.
 
 🌱 Focused on learning Full-stack development and software engineering.
 
