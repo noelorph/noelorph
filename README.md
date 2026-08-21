@@ -8,6 +8,14 @@
 
 I'm currently working on [TM](https://github.com/noelorph/time-management-tracker) with spec-driven development
 
+**Currently learning on**: 
+System Design
+DevOps 
+tools
+LLMs
+AI tools 
+Spec-driven development
+
 ### Tech Stack:
 
 <img src="./assets/typescript.svg" width=40 height=40></img>
@@ -16,12 +24,15 @@ I'm currently working on [TM](https://github.com/noelorph/time-management-tracke
 <img src="./assets/react.svg" width=40 height=40></img>
 <img src="./assets/next.svg" width=40 height=40></img>
 <img src="./assets/html.svg" width=40 height=40></img>
+<img src="./assets/css.svg" width=40 height=40></img>
+<img src="./assets/tailwindcss.svg" width=40 height=40></img>
 
 <img src="./assets/mongodb.svg" width=40 height=40></img>
 <img src="./assets/supabase.svg" width=40 height=40></img>
 <img src="./assets/prisma.svg" width=40 height=40></img>
 <img src="./assets/mysql.svg" width=40 height=40></img>
 
+<img src="./assets/codex.svg" width=40 height=40></img>
 <img src="./assets/vscode.svg" width=40 height=40></img>
 
 
