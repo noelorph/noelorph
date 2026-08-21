@@ -8,13 +8,13 @@
 
 I'm currently working on [TM](https://github.com/noelorph/time-management-tracker) with spec-driven development
 
-**Currently learning on**: 
-System Design
-DevOps 
-tools
-LLMs
-AI tools 
-Spec-driven development
+**Currently learning**: 
+- Computer Science Fundamentals
+- System Design
+- DevOps tools
+- LLMs
+- AI tools 
+- Spec-driven development
 
 ### Tech Stack:
 
