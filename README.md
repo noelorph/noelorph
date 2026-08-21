@@ -18,11 +18,11 @@ I'm currently working on [TM](https://github.com/noelorph/time-management-tracke
 
 ### Tech Stack:
 
-<img src="./assets/typescript.svg" width=40 height=40></img>
-<img src="./assets/express.svg" width=40 height=40></img>
-<img src="./assets/nodejs.svg" width=40 height=40></img>
-<img src="./assets/react.svg" width=40 height=40></img>
-<img src="./assets/next.svg" width=40 height=40></img>
+<img src="./assets/typescript.svg" width=80 height=80></img>
+<img src="./assets/express.svg" width=80 height=80></img>
+<img src="./assets/nodejs.svg" width=80 height=80></img>
+<img src="./assets/react.svg" width=80 height=80></img>
+<img src="./assets/next.svg" width=80 height=80></img>
 
 <img src="./assets/html.svg" width=40 height=40></img>
 <img src="./assets/css.svg" width=40 height=40></img>
