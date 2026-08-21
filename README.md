@@ -2,7 +2,7 @@
 
 💻 Aspiring software and Ai engineer. 
 
-🦊 Self-taught developer, trying to build cool applications. 
+🦊 Self-taught developer, trying to build cool applications.
 Focused on learning Full-stack development and software engineering.
 
 - I'm currently working on [TM](https://github.com/noelorph/time-management-tracker) with spec-driven development
