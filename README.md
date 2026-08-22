@@ -10,13 +10,14 @@ I'm a Computer Science student wanting to build cool applications.
 
 I'm currently working on [TM](https://github.com/noelorph/time-management-tracker) with spec-driven development
 
-**Currently learning**: 
-- Computer Science Fundamentals
-- System Design
-- DevOps tools
-- LLMs
-- AI tools 
-- Spec-driven development
+| **Currently Learning**  | **Goal**  |
+| ----------------------- | --------- |
+| Computer Science Fundamentals  | Learn how   |
+| System Design  | Build scalable systems |
+| DevOps tools  |   |
+| LLMs  | Learn how Large Language Models work. Integrate and implement AI applications  |
+| AI tools  | Learn how to build with AI without  |
+| Spec-driven development  |   |
 
 **Focusing more on**:
 - <img src="./assets/next.svg" width=10 height=10></img> Next.js
