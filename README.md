@@ -1,50 +1,20 @@
 ### Hi there, I'm Noel 👋
 
-💻 Aspiring software and Ai engineer. 
+🦊 Aspiring software and AI engineer.
 
-🦊 Self-taught developer 
+I'm currently a computer science student who wants to build AI-integrated software applications. I'm focusing on learning full-stack development and software engineering.
 
-I'm a Computer Science student wanting to build cool applications.
+One of the most important skills I'm trying to develop right now is learning how to **think like a real programmer and engineer, not just a coder**. In the age of AI, I believe software developers should understand the fundamentals more deeply — how to define and solve problems, ask the right questions, make thoughtful assumptions, and be intentional about the software they build.
 
-🌱 Focused on learning Full-stack development and software engineering.
+* 🔭 Right now, I'm building [Time Management Tracker](https://github.com/noelorph/time-management-tracker) as a personal project for Zy.
+* 🏗️ I'm currently learning how to design systems and understand how large-scale applications work.
+* 🤖 I'm learning how to build with AI and leverage it properly as a real engineer.
+* 📚 I'm learning spec-driven development, DevOps, AI, and software engineering.
+* 🌱 I don't have any real-world experience in the tech industry yet. I'm hoping, praying, and actively looking for opportunities to get started.
 
-I'm currently working on [TM](https://github.com/noelorph/time-management-tracker) with spec-driven development
 
-| **Currently Learning**  | **Goal**  |
-| ----------------------- | --------- |
-| Computer Science Fundamentals  | Learn the fundamentals |
-| System Design  | Become a better engineer by learning how to design large-scale systems |
-| DevOps tools  | Accelerate the delivery of high-performance applications by combining and automating the work of **software development**(Dev) and **IT Operations**(Ops) teams  |
-| LLMs  | Learn how Large Language Models work. Integrate and implement AI to software applications  |
-| AI tools  | Learn how to build with AI properly as an engineer |
-| Spec-driven development  | To make the specification the source of truth for software development: instead of immediately writing code, developers first define the system’s intended behavior, requirements, constraints, and acceptance criteria, then implement and test the software against that specification. The goal is to reduce ambiguity and scope drift, improve alignment between stakeholders and developers (including AI coding agents), make changes more predictable, and provide a clear connection between requirements, implementation, and tests.  |
 
-### Tech Stack:
 
-<img src="./assets/typescript.svg" width=80 height=70></img>
-<img src="./assets/express.svg" width=80 height=70></img>
-<img src="./assets/nodejs.svg" width=80 height=70></img>
-<img src="./assets/react.svg" width=80 height=70></img>
-<img src="./assets/next.svg" width=80 height=70></img>
-
-<img src="./assets/html.svg" width=80 height=70></img>
-<img src="./assets/css.svg" width=80 height=70></img>
-<img src="./assets/tailwindcss.svg" width=80 height=70></img>
-
-<img src="./assets/mongodb.svg" width=80 height=70></img>
-<img src="./assets/supabase.svg" width=80 height=70></img>
-<img src="./assets/prisma.svg" width=80 height=70></img>
-<img src="./assets/mysql.svg" width=80 height=70></img>
-
-<img src="./assets/codex.svg" width=80 height=70></img>
-<img src="./assets/vscode.svg" width=80 height=70></img>
-
-**Focusing more on**:
-- <img src="./assets/next.svg" width=10 height=10></img> Next.js
-- <img src="./assets/react.svg" width=10 height=10></img> React
-- <img src="./assets/supabase.svg" width=10 height=10></img> Supabase
-- <img src="./assets/codex.svg" width=10 height=10></img> Codex
-- <img src="./assets/typescript.svg" width=10 height=10></img> TypeScript
 <!--
 **noelorph/noelorph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
